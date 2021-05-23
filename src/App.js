@@ -15,8 +15,8 @@ function App() {
     <Hero/>
     <Browse/>
     <Arrived/>
-    <Clients/>
-    <Asside/>
+    {/* <Clients/>
+    <Asside/> */}
     <Footer/>
     </>
     
